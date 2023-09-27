@@ -1,10 +1,10 @@
 module pillman
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.6.11
+	github.com/mpetavy/common v1.6.12
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
 )
 
@@ -71,4 +71,4 @@ require (
 	software.sslmate.com/src/go-pkcs12 v0.2.0 // indirect
 )
 
-replace github.com/mpetavy/common => ../common
+//replace github.com/mpetavy/common => ../common
