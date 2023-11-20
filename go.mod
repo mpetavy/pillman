@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.6.28
+	github.com/mpetavy/common v1.6.29
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
 )
 
