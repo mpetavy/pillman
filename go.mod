@@ -1,10 +1,10 @@
-module pillman
+module github.com/mpetavy/pillman
 
 go 1.21
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.6.38
+	github.com/mpetavy/common v1.6.41
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
 )
 
