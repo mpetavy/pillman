@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.8.2
+	github.com/mpetavy/common v1.8.3
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
 )
 
@@ -18,6 +18,7 @@ require (
 	github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7 // indirect
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20191125211704-12ad95a8df72 // indirect
 	github.com/go-gl/mathgl v0.0.0-20190416160123-c4601bc793c7 // indirect
+	github.com/go-ini/ini v1.67.0 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/context v1.1.1 // indirect
