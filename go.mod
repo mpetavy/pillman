@@ -4,8 +4,8 @@ go 1.21
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.8.21
-	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
+	github.com/mpetavy/common v1.8.22
+	golang.org/x/image v0.18.0
 )
 
 require (
@@ -41,10 +41,10 @@ require (
 	go.bug.st/serial v1.5.0 // indirect
 	golang.org/x/crypto v0.23.0 // indirect
 	golang.org/x/exp v0.0.0-20230425010034-47ecfdc1ba53 // indirect
-	golang.org/x/mod v0.14.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.25.0 // indirect
 	golang.org/x/sys v0.20.0 // indirect
-	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	software.sslmate.com/src/go-pkcs12 v0.2.0 // indirect
 )
