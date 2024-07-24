@@ -4,13 +4,14 @@ go 1.21
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.8.45
+	github.com/mpetavy/common v1.8.46
 	golang.org/x/image v0.18.0
 )
 
 require (
 	github.com/beevik/etree v1.1.4 // indirect
 	github.com/creack/goselect v0.1.2 // indirect
+	github.com/dlclark/regexp2 v1.11.2 // indirect
 	github.com/faiface/glhf v0.0.0-20181018222622-82a6317ac380 // indirect
 	github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
