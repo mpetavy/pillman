@@ -6,7 +6,7 @@ toolchain go1.23.6
 
 require (
 	github.com/faiface/pixel v0.10.0
-	github.com/mpetavy/common v1.10.42
+	github.com/mpetavy/common v1.10.45
 	golang.org/x/image v0.18.0
 )
 
